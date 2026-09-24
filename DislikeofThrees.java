@@ -21,6 +21,7 @@ public class DislikeofThrees {
             }
             System.out.println(num);
 
+            scanner.close();
         }
     }
 }

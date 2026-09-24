@@ -14,6 +14,7 @@ public class MediumNumber {
             Arrays.sort(array);
             System.out.println(array[1]);
         }
+        scanner.close();
 
     }
 }

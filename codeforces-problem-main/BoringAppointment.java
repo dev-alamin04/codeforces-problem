@@ -22,7 +22,9 @@ public class BoringAppointment {
 
             }
 
+            sc.close();
             System.out.println(totalPress);
+
 
         }
     }
